@@ -1,4 +1,4 @@
-# Parcial — POO + APIs
+# Parcial Apis
 
 ## Integrantes
 - Heisser
